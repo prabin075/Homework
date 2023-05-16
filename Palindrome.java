@@ -18,8 +18,8 @@ public class Palindrome {
 
     public static void main(String[] args) {
         // Test cases
-        int number1 = 12321;
-        int number2 = 12345;
+        int number1 = 121;
+        int number2 = -121;
 
         System.out.println(number1 + " is palindrome: " + isPalindrome(number1));
         System.out.println(number2 + " is palindrome: " + isPalindrome(number2));
